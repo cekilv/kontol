@@ -5,12 +5,12 @@ global.prems = []
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Cekil Official'
-global.numberowner = '629515023118'
+global.numberowner = '6289515023118'
 global.instagram = 'https://instagram.com/cekilgans'
 global.github = 'https://github.com/Cekilgans'
-global.dana = '89515023118'
-global.pulsa = '89515023118'
-global.gopay = '89515023118'
+global.dana = '089515023118'
+global.pulsa = '089515023118'
+global.gopay = '089515023118'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'CekilBot-Md'
@@ -19,8 +19,8 @@ global.web = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN' //ubah jadi webs
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/cekil-06-08' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/cekil-06-08' //ini juga ganti 
+global.fotonya1 = 'https://www.linkpicture.com/q/hinata_3.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://www.linkpicture.com/q/hinata_3.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
