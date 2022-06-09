@@ -15,7 +15,7 @@ global.gopay = '089515023118'
 //=============『 Info Bot 』=================//
 global.namebot = 'CekilBot-Md'
 global.gc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.web = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://github.com/Cekilgans' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://www.linkpicture.com/q/hinata_3.jpg' //ganti jadi foto
 global.fotonya2 = 'https://www.linkpicture.com/q/hinata_3.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm = '𝙲𝙴𝙺𝙸𝙻-𝙼𝙳'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '⫹⫺ 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm2 = '                     「 𝙲𝙴𝙺𝙸𝙻-𝙼𝙳 あ⁩ 」'
+global.wm3 = '⫹⫺ 𝙲𝙴𝙺𝙸𝙻-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Hyzer Official'
+global.author = '© Cekil Official'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
