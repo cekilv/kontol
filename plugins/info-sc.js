@@ -9,12 +9,13 @@
 let handler = async (m, { conn }) => {
 let ye = `@${m.sender.split`@`[0]}`
 let esce = `
+conn.sendBut(i, `${pesan}`, wm, 'OWNER', '.owner', null).catch(_ => _)
+    }
 Hai ${ye} Lagi Nyari Sc Ya? 
 
-Nih Link Sc Nya Dibawah :
-https://youtu.be/AXPzjQ5jxx8
 
-_*Jangan Lupa Di Subscribe*_`
+
+_*Contact Owner*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
